@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.tlo {
+    background: url('https://i.imgur.com/xoNX891.png') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 820px;   
+    opacity: 0.9;
+}
+
+.navbar {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    background-color: #341F01;
+}
+
+.siwe {
+    position: relative;
+    width: 100%;
+    height: 320px;
+    background-color: #312E2C;
+}
+
+.dol {
+    position: relative;
+    width: 100%;
+    height: 380px;
+    background-color: #462F0D;
+}
+
+.dol1 {
+    position: relative;
+    top: 0px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+.istambul img {
+    position: absolute;
+    font-family: 'Advent Pro', sans-serif;
+    left: 45%;
+    top: 0%;
+    width: 250px;
+    height: 150px;
+}
+
+.tekst p1 {
+    position: absolute;
+    font-family: 'Sen', sans-serif;
+    left: 5%;
+    font-size: 35px;
+    top: 5%;
+    color: white;
+    font-weight: bold;
+}
+
+.tekst p1:hover {
+    color: red;
+}
+
+.tekst p2 {
+    position: absolute;
+    font-family: 'Sen', sans-serif;
+    left: 20%;
+    font-size: 35px;
+    top: 5%;
+    color: white;
+    font-weight: bold;
+}
+
+.tekst p2:hover {
+    color: red;
+}
+
+
+.tekst p3 {
+    position: absolute;
+    font-family: 'Sen', sans-serif;
+    left: 39%;
+    font-size: 35px;
+    top: 5%;
+    color: white;
+    font-weight: bold;
+}
+
+.tekst p3:hover {
+    color: red;
+}
+
+.tekst p4 {
+    position: absolute;
+    font-family: 'Sen', sans-serif;
+    left: 58%;
+    font-size: 35px;
+    top: 5%;
+    color: white;
+    font-weight: bold;
+}
+
+.tekst p4:hover {
+    color: red;
+}
+
+.tekst p5 {
+    position: absolute;
+    font-family: 'Sen', sans-serif;
+    left: 71%;
+    font-size: 35px;
+    top: 5%;
+    color: white;
+    font-weight: bold;
+}
+
+.tekst p5:hover {
+    color: red;
+}
+
+.tekst p6 {
+    position: absolute;
+    font-family: 'Sen', sans-serif;
+    left: 84%;
+    font-size: 35px;
+    top: 5%;
+    color: white;
+    font-weight: bold;
+}
+
+.tekst p6:hover {
+    color: red;
+}
+
+/*SIWOOOOOOOOOOO*/
+
+.tekst2 h1 {
+    position: relative;
+    top: -1500px;
+    font-family: 'Sen', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    color: #C6AB0F;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+}
+
+.tekst2 h2 {
+    position: relative;
+    top: -1570px;
+    font-family: 'Sen', sans-serif;
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+}
+
+.tekst2 .square {
+    font-family: 'Sen', sans-serif;
+    position: relative;
+    color: black;
+    width: 250px;
+    height: 25px;
+    top: -1600px;
+    text-align: center;
+    left: 42%;
+    background-color: gold;
+    border: 15px solid gold;
+    border-radius: 15px;
+}
+
+.tekst2 .square:hover{
+    background-color: black;
+    border: 15px solid black;
+    color: white;
+}
+
+/*SIWO @@@@@@@@@@@@@@@@@@@*/
+
+.tekst2 h4 {
+    position: relative;
+    top: -1250px;
+    font-family: 'Sen', sans-serif;
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+}
+ 
+.tekst2 h5 {
+    position: relative;
+    top: -1350px;
+    font-family: 'Sen', sans-serif;
+    text-align: center;
+    font-size: 55px;
+    color: #D5B915;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+}
+
+.tekst2 h6 {
+    position: relative;
+    top: -1415px;
+    font-family: 'Sen', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+}
+
+.squaree {
+    position: relative;
+    top: -1525px;
+    left: 35%;
+    width: 30%;
+    height: 10px;
+
+  background-color: #555;
+}
+
